@@ -1,4 +1,4 @@
-# Geeks360 Claude skills
+# Claude skills for SEO, GEO and Meta ads (Geeks360)
 
 The Claude skills we use at Geeks360 for client work: SEO, GEO, ads, websites, email and agent workflows.
 A skill is a packaged set of instructions Claude loads when a task matches it.
